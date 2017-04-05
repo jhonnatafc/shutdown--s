@@ -1,2 +1,2 @@
-# shutdown--s
+# shutdown -s
 desligando o PC
